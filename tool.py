@@ -2,8 +2,6 @@ import os, time
 
 #   <--Menu-->
 
-red()
-
 banner = """
 
 
