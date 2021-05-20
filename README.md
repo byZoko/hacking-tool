@@ -3,5 +3,11 @@ Tool hacking simple and free linux or similar
 COMMANDS :
 
 git clone https://github.com/byZoko/MY-TOOL-HAcKING.git
+
+
 cd MY-TOOL-HAcKING
-pyhton tool.py
+
+python3 requeriments.py
+
+
+pyhton3 tool.py
