@@ -2,4 +2,6 @@
 Tool hacking simple and free linux or similar
 COMMANDS :
 
-cd
+git clone https://github.com/byZoko/MY-TOOL-HAcKING.git
+cd MY-TOOL-HAcKING
+pyhton tool.py
