@@ -1,5 +1,3 @@
-from colors import green, red, blue, yellow, purple, white
-
 import os, time
 
 #   <--Menu-->
