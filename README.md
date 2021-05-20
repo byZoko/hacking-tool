@@ -2,10 +2,10 @@
 Tool hacking simple and free linux or similar
 COMMANDS :
 
-git clone https://github.com/byZoko/MY-TOOL-HAcKING.git
+git clone https://github.com/byZoko/hacking-tool.git
 
 
-cd MY-TOOL-HAcKING
+cd hacking-tool
 
 python3 requeriments.py
 
