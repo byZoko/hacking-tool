@@ -11,3 +11,5 @@ python3 requeriments.py
 
 
 pyhton3 tool.py
+
+Only educaly jajjajjaxd
